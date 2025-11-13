@@ -1,0 +1,9 @@
+# Environnement
+venv/
+__pycache__/
+*.pyc
+
+assets_backup/
+
+# Fichiers générés
+*.pdf
