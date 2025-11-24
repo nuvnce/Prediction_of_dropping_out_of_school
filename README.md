@@ -103,9 +103,10 @@ streamlit run app.py
 ---
 ## Aperçu de l'Interface
 
-![Interface App1](Assets/Dashboard.png)
+![Interface App1](assets/Dashboard.png)
 
-![Interface App2](Assets/Prédiction.png)
+![Interface App2](assets/Prédiction.png)
+
 *Capture d'écran de l'application Streamlit en action*
 
 > Description : Dashboard avec visualisations interactives et formulaire de prédiction.
